@@ -1,5 +1,8 @@
 Overview
 ========
+
+_Cloned because I wanted more flexibility in managing the exclude and fields parameters for deep copies_
+
 Django-Forkit is composed of a set of utility functions for _forking_,
 _resetting_, and _diffing_ model objects. Below are a list of the current
 utility functions:
